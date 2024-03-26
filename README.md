@@ -1,3 +1,3 @@
 # trueprivacy.github.io
 
-This is an under-development project.
+A trusted name in preserving your privacy
